@@ -1,0 +1,11 @@
+Steps:
+
+Follow Up -- Reports -- Real Work -- Work-Monthly 
+
+--1> Delete the sheet "Resource & Project Details" of Resource and Project wise monthly sheet From Previous Month Folder
+
+2> First Project Run - Pass Correct input (Month and Year). After Send file on mail. update this file and overwrite in current folder
+
+3> Second Project Run - After Send File on mail. update "Productivity Report For The Month" File and overwrite in current folder.
+
+4> Third Project Run - Generate "Productivity Report" sheet.
